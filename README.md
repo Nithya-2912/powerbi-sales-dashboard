@@ -1,6 +1,6 @@
 📊 Sales Analytics Dashboard — Power BI
 
-![Dashboard Preview](Dashboard Preview.png)
+![Dashboard Preview](DashboardPreview.png)
 
 
 📌 Overview
