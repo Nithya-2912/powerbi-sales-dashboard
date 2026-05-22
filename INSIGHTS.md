@@ -38,7 +38,7 @@ technology products are in high demand among customers.
 ---
 
 ## 5. Top 5 Products Are All High Value Items
-|------------------------------------------------------------|------------|
+
 |                       Product                              |    Sales   |
 |------------------------------------------------------------|------------|
 | Canon imageCLASS 2200 Advanced Copier                      | $61,599.82 |
@@ -46,7 +46,7 @@ technology products are in high demand among customers.
 | Cisco TelePresence System EX90 Videoconferencing Unit      | $22,638.48 |
 | HON S400 Series Task Chairs for Big and Tall               | $21,870.58 |
 | GBC DocuBind TL300 Electric Binding System                 | $19,823.48 |
-|------------------------------------------------------------|------------|
+
 All top 5 products are office equipment and furniture items with
 high unit prices. The Canon Copier alone accounts for $61K in sales,
 which is significantly higher than the other products in the list.
@@ -70,7 +70,7 @@ area that has not been fully utilized.
 ---
 
 ## Summary
-|----------------------------------------|----------|
+
 |                 Finding                | Priority |
 |----------------------------------------|----------|
 | Phones & Chairs top sub-categories     | High     |
@@ -79,7 +79,7 @@ area that has not been fully utilized.
 | Technology has strong revenue share    | High     |
 | Low profit margin of 12%               | Critical |
 | Home Office segment underperforming    | Medium   |
-|----------------------------------------|----------|
+
 ---
 
-*Project by Nithya | Power BI Sales Dashboard | Sample Superstore Dataset*
+*Project by Nithya Sai Santhoshini Bandi | Power BI Sales Dashboard | Sample Superstore Dataset*
